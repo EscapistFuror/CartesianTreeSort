@@ -1,0 +1,7 @@
+It output a sorted list. Given and array in input, the output window looks as follows:
+
+
+Input array is-
+3 4 7 34 45 19 80
+The sorted array is-
+3 4 7 19 34 45 80
