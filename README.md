@@ -1,4 +1,4 @@
-Cartesian Tree Sorting Algorithm
+# Cartesian Tree Sorting Algorithm
 
 About: 
     
